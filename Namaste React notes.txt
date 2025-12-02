@@ -1,0 +1,4 @@
+Difference between a Library and a Framework
+
+Analogy SummaryThink of it this way:A Library is like a hammer 🔨.10 You pick up the hammer when you need to hit a nail, and put it down when you're done. You decide what, when, and where to build.A Framework is like a model home blueprint 🏡. It provides the entire foundation, walls, and wiring, and tells you exactly where to put the plumbing, windows, and electrical outlets. You fill in the blanks, but the overall structure and flow are already determined.11
+

@@ -1,0 +1,19 @@
+{
+  "name": "namaskarreactjs",
+  "version": "1.0.0",
+  "description": "A learning project from Reactjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejas7553/namaskarReact.git"
+  },
+  "author": "Tejas Jadhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejas7553/namaskarReact/issues"
+  },
+  "homepage": "https://github.com/Tejas7553/namaskarReact#readme"
+}
